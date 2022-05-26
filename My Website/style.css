@@ -1,0 +1,152 @@
+/*Home CSS Class */
+.body
+{
+    background-color: lightblue;
+    /*align-items: left;*/
+}
+.main_header
+{
+    margin: auto;
+    background-color: aliceblue;
+    width: 99%;
+    height: 50px;
+
+}
+.logo
+{
+    height: 30px;
+    width: 30px;
+}
+/* Add a black background color to the top navigation */
+.topnav {
+    margin-left: 30%;
+    background-color: aliceblue;
+    overflow: hidden;
+  }
+  
+  /* Style the links inside the navigation bar */
+  .topnav a {
+    float: center;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  /* Change the color of links on hover */
+  .topnav a:hover {
+    background-color: #ddd;
+    color: rgb(255, 255, 255);
+  }
+  
+  /* Add a color to the active/current link */
+  .topnav a.active {
+    background-color: #7b807e;
+    /*color: white;*/
+  }
+.text
+{
+
+}
+.Hobbies
+{
+
+}
+.Footer
+{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+/*Personality CSS Class*/
+.body
+{
+    background-color: lightblue;
+
+}
+.main_header
+{
+
+}
+.logo
+{
+
+}
+.topnav
+{
+
+}
+.PersonalityText
+{
+   
+}
+
+/*Cities CSS Class*/
+.body
+{
+    background-color: lightblue;
+
+}
+.main_header
+{
+
+}
+.logo
+{
+
+}
+.topnav
+{
+
+}
+.CityText
+{
+    
+}
+
+/*Tourist Spot*/
+.body
+{
+    background-color: lightblue;
+
+}
+.main_header
+{
+
+}
+.logo
+{
+
+}
+.topnav
+{
+
+}
+.Tourist_Spot
+{
+
+}
+
+/*Contact us class*/
+.Contact_Us
+{
+  display: inline;
+  height: 50px;
+  width: 50px;
+
+}
+.Contact
+{
+  text-align: center;
+}
+.Contact_Info
+{
+  text-align: center;
+}
+.Contact_Foot
+{
+  display:inline ;
+  
+}
